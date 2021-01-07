@@ -1,7 +1,7 @@
 # daily-coding-problem
 Doing a code everyday. Probably.
 
-Solutions to problems at dailycodingproblem.com in the order I recieve them. Since the dates aren't enough to find these problems again later, I've linked them all here for a quick word search.
+Solutions to problems at dailycodingproblem.com in the order I receive them. Since the dates aren't enough to find these problems again later, I've linked them all here for a quick word search.
 
 ---
 
