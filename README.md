@@ -19,7 +19,7 @@ At a party, there is a single person who everyone knows, but who does not know a
 
 Given a list of N people and the above operation, find a way to identify the celebrity in O(N) time.
 
-[Solve It!](Jan1.py)
+[Solve It!](jan-2021/Jan1.py)
 
 ---
 
