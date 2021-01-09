@@ -29,11 +29,11 @@ This problem was asked by **Yext**.
 
 Two nodes in a binary tree can be called cousins if they are on the same level of the tree but have different parents. For example, in the following diagram 4 and 6 are cousins.
 
-    1
-   / \
-  2   3
- / \   \
-4   5   6
+        1
+       / \
+      2   3
+     / \   \
+    4   5   6
 Given a binary tree and a particular node, find all cousins of that node.
 
 [Solve It!](jan-2021/Jan2.py)
@@ -73,13 +73,13 @@ The horizontal distance of a left child is hd(parent) - 1.
 The horizontal distance of a right child is hd(parent) + 1.
 For example, for the following tree, hd(1) = -2, and hd(6) = 0.
 
-             5
-          /     \
-        3         7
-      /  \      /   \
-    1     4    6     9
-   /                /
-  0                8
+                 5
+              /     \
+            3         7
+          /  \      /   \
+        1     4    6     9
+       /                /
+      0                8
 The bottom view of a tree, then, consists of the lowest node at each horizontal distance. If there are two nodes at the same depth and horizontal distance, either is acceptable.
 
 For this tree, for example, the bottom view could be \[0, 1, 3, 6, 8, 9].
@@ -96,3 +96,22 @@ Write a program that checks whether an integer is a palindrome. For example, 121
 
 ---
 
+#### 7
+
+This problem was asked by **Google**.
+
+Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
+
+---
+
+#### 8
+
+This problem was asked by **Triplebyte**.
+
+You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability.
+
+For example, given the numbers [1, 2, 3, 4] and probabilities [0.1, 0.5, 0.2, 0.2], your function should return 1 10% of the time, 2 50% of the time, and 3 and 4 20% of the time.
+
+You can generate random numbers between 0 and 1 uniformly.
+
+---
