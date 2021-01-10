@@ -48,6 +48,8 @@ Implement a queue using a set of fixed-length arrays.
 
 The queue should support enqueue, dequeue, and get_size operations.
 
+[Solve It!](jan-2021/Jan3.py)
+
 ---
 
 #### 4
