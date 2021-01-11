@@ -90,6 +90,8 @@ For this tree, for example, the bottom view could be \[0, 1, 3, 6, 8, 9].
 
 Given the root to a binary tree, return its bottom view.
 
+[Solve It!](jan-2021/Jan5.py)
+
 ---
 
 #### 6
