@@ -13,7 +13,7 @@ Solutions to problems at dailycodingproblem.com in the order I receive them. Sin
 
 #### 1
 
-This problem was asked by **Pinterest***.
+This problem was asked by **Pinterest**.
 
 At a party, there is a single person who everyone knows, but who does not know anyone in return (the "celebrity"). To help figure out who this is, you have access to an O(1) method called knows(a, b), which returns True if person a knows person b, else False.
 
