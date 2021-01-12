@@ -124,4 +124,7 @@ For example, given the numbers [1, 2, 3, 4] and probabilities [0.1, 0.5, 0.2, 0.
 
 You can generate random numbers between 0 and 1 uniformly.
 
+
+[Solve It!](jan-2021/Jan8.py)
+
 ---
