@@ -142,4 +142,10 @@ Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.
 
 ---
 
+#### 10
 
+This problem was asked by **Facebook**.
+
+Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
+
+[Solve It!](jan-2021/Jan10.py)
