@@ -96,7 +96,7 @@ Given the root to a binary tree, return its bottom view.
 
 #### 6
 
-This problem was asked by **Palantir**.
+This problem was asked by **Palantir** (Easy).
 
 Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.
 
@@ -106,7 +106,7 @@ Write a program that checks whether an integer is a palindrome. For example, 121
 
 #### 7
 
-This problem was asked by **Google**.
+This problem was asked by **Google** (Medium).
 
 Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
 
@@ -116,7 +116,7 @@ Given an undirected graph represented as an adjacency matrix and an integer k, w
 
 #### 8
 
-This problem was asked by **Triplebyte**.
+This problem was asked by **Triplebyte** (Medium).
 
 You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability.
 
@@ -130,7 +130,7 @@ You can generate random numbers between 0 and 1 uniformly.
 
 #### 9
 
-This problem was asked by **Facebook**.
+This problem was asked by **Facebook** (Medium).
 
 Given a circular array, compute its maximum subarray sum in O(n) time. A subarray can be empty, and in this case the sum is 0.
 
@@ -144,8 +144,12 @@ Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.
 
 #### 10
 
-This problem was asked by **Facebook**.
+This problem was asked by **Facebook** (Medium)
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
 [Solve It!](jan-2021/Jan10.py)
+
+---
+
+
