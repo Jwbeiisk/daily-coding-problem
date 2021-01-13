@@ -13,7 +13,7 @@ Solutions to problems at dailycodingproblem.com in the order I receive them. Sin
 
 #### 1
 
-This problem was asked by **Pinterest**.
+This problem was asked by **Pinterest** (Medium).
 
 At a party, there is a single person who everyone knows, but who does not know anyone in return (the "celebrity"). To help figure out who this is, you have access to an O(1) method called knows(a, b), which returns True if person a knows person b, else False.
 
@@ -25,7 +25,7 @@ Given a list of N people and the above operation, find a way to identify the cel
 
 #### 2
 
-This problem was asked by **Yext**.
+This problem was asked by **Yext** (Medium).
 
 Two nodes in a binary tree can be called cousins if they are on the same level of the tree but have different parents. For example, in the following diagram 4 and 6 are cousins.
 
@@ -42,7 +42,7 @@ Given a binary tree and a particular node, find all cousins of that node.
 
 #### 3
 
-This problem was asked by **Netflix**.
+This problem was asked by **Netflix** (Hard).
 
 Implement a queue using a set of fixed-length arrays.
 
@@ -54,7 +54,7 @@ The queue should support enqueue, dequeue, and get_size operations.
 
 #### 4
 
-This problem was asked by **Google**.
+This problem was asked by **Google** (Easy).
 
 Given an array of elements, return the length of the longest subarray where all its elements are distinct.
 
@@ -66,7 +66,7 @@ For example, given the array \[5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest 
 
 #### 5
 
-This problem was asked by **Yelp**.
+This problem was asked by **Yelp** (Medium).
 
 The horizontal distance of a binary tree node describes how far left or right the node will be when the tree is printed out.
 
