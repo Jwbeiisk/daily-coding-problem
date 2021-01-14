@@ -152,4 +152,14 @@ Given a stream of elements too large to store in memory, pick a random element f
 
 ---
 
+#### 11
+
+This problem was asked by **Pivotal** (Easy).
+
+Write an algorithm that finds the total number of set bits in all integers between 1 and N.
+
+[Solve It!](jan-2021/Jan11.py)
+
+---
+
 
