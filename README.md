@@ -198,3 +198,19 @@ entire array to be sorted. For example, given [3, 7, 5, 6, 9], you should return
 
 ---
 
+#### 14
+
+This problem was asked by **Palantir** (Easy).
+
+A typical American-style crossword puzzle grid is an N x N matrix with black and white squares, which obeys the following rules:
+
+Every white square must be part of an "across" word and a "down" word.
+No word can be fewer than three letters long.
+Every white square must be reachable from every other white square.
+The grid is rotationally symmetric (for example, the colors of the top left and bottom right squares must match).
+
+Write a program to determine whether a given matrix qualifies as a crossword grid.
+
+[Solve It!](jan-2021/Jan14.py)
+
+---
