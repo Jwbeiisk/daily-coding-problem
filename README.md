@@ -174,9 +174,9 @@ For example, given the following tree:
                       /     \
                     1         2
                   /            \
-                3                 4
-                  \             /   \
-                    5          6     7
+                3                4
+                  \            /   \
+                    5         6     7
 You should convert it to:
 
                      0
