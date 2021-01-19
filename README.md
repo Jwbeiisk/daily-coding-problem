@@ -237,3 +237,13 @@ and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number
 [Solve It!](jan-2021/Jan15.py)
 
 ---
+
+#### 16
+
+Daily Coding Problem skipped an email through some glitch. I've made a sudoku solver instead here.
+
+
+[Solve It!](jan-2021/Jan16.py)
+
+---
+
