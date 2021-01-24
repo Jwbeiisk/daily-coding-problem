@@ -299,4 +299,12 @@ You should be as efficient with time and space as possible.
 
 ---
 
-#### 
+#### 21
+
+This problem was asked by **Amazon** (Easy).
+
+Given an array and a number k that's smaller than the length of the array, rotate the array to the right k elements in-place.
+
+[Solve It!](jan-2021/Jan21.py)
+
+---
