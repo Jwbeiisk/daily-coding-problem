@@ -308,3 +308,14 @@ Given an array and a number k that's smaller than the length of the array, rotat
 [Solve It!](jan-2021/Jan21.py)
 
 ---
+
+#### 22
+
+This problem was asked by **Fitbit** (Medium).
+
+Given a linked list, rearrange the node values such that they appear in alternating low -> high -> low -> high ... form. For example, given 1 -> 2 -> 3 -> 4 -> 5, you should return 1 -> 3 -> 2 -> 5 -> 4.
+
+[Solve It!](jan-2021/Jan22.py)
+
+---
+
