@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-18th Jan 2021. Easy
+18th Jan 2021. #502: Easy
 
 This problem was asked by PayPal.
 
