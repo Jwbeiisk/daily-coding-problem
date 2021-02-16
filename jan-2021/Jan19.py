@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-19th Jan 2021. Medium
+19th Jan 2021. #503: Medium
 
 This problem was asked by Google.
 
