@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-22nd Jan 2021. Medium
+22nd Jan 2021. #506: Medium
 
 This problem was asked by Fitbit.
 
