@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-21st Jan 2021. Easy
+21st Jan 2021. #505: Easy
 
 This problem was asked by Amazon.
 
