@@ -202,6 +202,14 @@ entire array to be sorted. For example, given [3, 7, 5, 6, 9], you should return
 
 #### 14
 
+Daily Coding Problem skipped an email through some glitch. I've made a **sudoku solver** instead here.
+
+[Solve It!](jan-2021/Jan14.py)
+
+---
+
+#### 15
+
 This problem was asked by **Palantir** (#499: Easy).
 
 A typical American-style crossword puzzle grid is an N x N matrix with black and white squares, which obeys the following rules:
@@ -213,11 +221,11 @@ The grid is rotationally symmetric (for example, the colors of the top left and 
 
 Write a program to determine whether a given matrix qualifies as a crossword grid.
 
-[Solve It!](jan-2021/Jan14.py)
+[Solve It!](jan-2021/Jan15.py)
 
 ---
 
-#### 15
+#### 16
 
 This problem was asked by **Google** (#500: Easy).
 
@@ -234,15 +242,8 @@ For example, given the following board:
 
 and start = (3, 0) (bottom left) and end = (0, 0) (top left), the minimum number of steps required to reach the end is 7, since we would need to go through (1, 2) because there is a wall everywhere else on the second row.
 
-[Solve It!](jan-2021/Jan15.py)
-
----
-
-#### 16
-
-Daily Coding Problem skipped an email through some glitch. I've made a **sudoku solver** instead here.
-
 [Solve It!](jan-2021/Jan16.py)
+
 
 ---
 
