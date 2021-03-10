@@ -13,7 +13,7 @@ Solutions to problems at dailycodingproblem.com in the order I receive them. Sin
 
 #### 1
 
-This problem was asked by **Pinterest** (Medium).
+This problem was asked by **Pinterest** (#486: Medium).
 
 At a party, there is a single person who everyone knows, but who does not know anyone in return (the "celebrity"). To help figure out who this is, you have access to an O(1) method called knows(a, b), which returns True if person a knows person b, else False.
 
@@ -25,7 +25,7 @@ Given a list of N people and the above operation, find a way to identify the cel
 
 #### 2
 
-This problem was asked by **Yext** (Medium).
+This problem was asked by **Yext** (#487: Medium).
 
 Two nodes in a binary tree can be called cousins if they are on the same level of the tree but have different parents. For example, in the following diagram 4 and 6 are cousins.
 
@@ -42,7 +42,7 @@ Given a binary tree and a particular node, find all cousins of that node.
 
 #### 3
 
-This problem was asked by **Netflix** (Hard).
+This problem was asked by **Netflix** (#488: Hard).
 
 Implement a queue using a set of fixed-length arrays.
 
@@ -54,7 +54,7 @@ The queue should support enqueue, dequeue, and get_size operations.
 
 #### 4
 
-This problem was asked by **Google** (Easy).
+This problem was asked by **Google** (#489: Easy).
 
 Given an array of elements, return the length of the longest subarray where all its elements are distinct.
 
@@ -66,7 +66,7 @@ For example, given the array \[5, 1, 3, 5, 2, 3, 4, 1], return 5 as the longest 
 
 #### 5
 
-This problem was asked by **Yelp** (Medium).
+This problem was asked by **Yelp** (#490: Medium).
 
 The horizontal distance of a binary tree node describes how far left or right the node will be when the tree is printed out.
 
@@ -96,7 +96,7 @@ Given the root to a binary tree, return its bottom view.
 
 #### 6
 
-This problem was asked by **Palantir** (Easy).
+This problem was asked by **Palantir** (#491: Easy).
 
 Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.
 
@@ -106,7 +106,7 @@ Write a program that checks whether an integer is a palindrome. For example, 121
 
 #### 7
 
-This problem was asked by **Google** (Medium).
+This problem was asked by **Google** (#492: Medium).
 
 Given an undirected graph represented as an adjacency matrix and an integer k, write a function to determine whether each vertex in the graph can be colored such that no two adjacent vertices share the same color using at most k colors.
 
@@ -116,7 +116,7 @@ Given an undirected graph represented as an adjacency matrix and an integer k, w
 
 #### 8
 
-This problem was asked by **Triplebyte** (Medium).
+This problem was asked by **Triplebyte** (#493: Medium).
 
 You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability.
 
@@ -130,7 +130,7 @@ You can generate random numbers between 0 and 1 uniformly.
 
 #### 9
 
-This problem was asked by **Facebook** (Medium).
+This problem was asked by **Facebook** (#494: Medium).
 
 Given a circular array, compute its maximum subarray sum in O(n) time. A subarray can be empty, and in this case the sum is 0.
 
@@ -144,7 +144,7 @@ Given [-4, 5, 1, 0], return 6 as we choose the numbers 5 and 1.
 
 #### 10
 
-This problem was asked by **Facebook** (Medium)
+This problem was asked by **Facebook** (#495: Medium)
 
 Given a stream of elements too large to store in memory, pick a random element from the stream with uniform probability.
 
@@ -154,7 +154,7 @@ Given a stream of elements too large to store in memory, pick a random element f
 
 #### 11
 
-This problem was asked by **Pivotal** (Easy).
+This problem was asked by **Pivotal** (#496: Easy).
 
 Write an algorithm that finds the total number of set bits in all integers between 1 and N.
 
@@ -164,7 +164,7 @@ Write an algorithm that finds the total number of set bits in all integers betwe
 
 #### 12
 
-This problem was asked by **Yahoo** (Medium).
+This problem was asked by **Yahoo** (#497: Medium).
 
 Recall that a full binary tree is one in which each node is either a leaf node, or has two children. 
 Given a binary tree, convert it to a full one by removing nodes with only one child.
@@ -191,7 +191,7 @@ You should convert it to:
 
 #### 13
 
-This problem was asked by **WhatsApp** (Easy).
+This problem was asked by **WhatsApp** (#498: Easy).
 
 Given an array of integers out of order, determine the bounds of the smallest window that must be sorted in order for the 
 entire array to be sorted. For example, given [3, 7, 5, 6, 9], you should return (1, 3).
@@ -202,7 +202,7 @@ entire array to be sorted. For example, given [3, 7, 5, 6, 9], you should return
 
 #### 14
 
-This problem was asked by **Palantir** (Easy).
+This problem was asked by **Palantir** (#499: Easy).
 
 A typical American-style crossword puzzle grid is an N x N matrix with black and white squares, which obeys the following rules:
 
@@ -219,7 +219,7 @@ Write a program to determine whether a given matrix qualifies as a crossword gri
 
 #### 15
 
-This problem was asked by **Google** (Easy).
+This problem was asked by **Google** (#500: Easy).
 
 You are given an M by N matrix consisting of booleans that represents a board. Each True boolean represents a wall. Each False boolean represents a tile you can walk on.
 
@@ -248,7 +248,7 @@ Daily Coding Problem skipped an email through some glitch. I've made a **sudoku 
 
 #### 17
 
-This problem was asked by **Facebook** (Medium).
+This problem was asked by **Facebook** (#501: Medium).
 
 Given a function that generates perfectly random numbers between 1 and k (inclusive), where k is an input, write a function that 
 shuffles a deck of cards represented as an array using only swaps.
@@ -263,7 +263,7 @@ Hint: Make sure each one of the 52! permutations of the deck is equally likely.
 
 #### 18
 
-This problem was asked by **PayPal** (Easy).
+This problem was asked by **PayPal** (#502: Easy).
 
 Given a binary tree, determine whether or not it is height-balanced. A height-balanced binary tree can be defined as one in which 
 the heights of the two subtrees of any node never differ by more than one.
@@ -274,7 +274,7 @@ the heights of the two subtrees of any node never differ by more than one.
 
 #### 19
 
-This problem was asked by **Google** (Medium).
+This problem was asked by **Google** (#503: Medium).
 
 Given a linked list, sort it in O(n log n) time and constant space. For example, the linked list 4 -> 1 -> -3 -> 99 should become -3 -> 1 -> 4 -> 99.
 
@@ -284,7 +284,7 @@ Given a linked list, sort it in O(n log n) time and constant space. For example,
 
 #### 20
 
-This problem was asked by **Twitter** (Easy).
+This problem was asked by **Twitter** (#504: Easy).
 
 You run an e-commerce website and want to record the last N order ids in a log. Implement a data structure to accomplish this, 
 with the following API:
@@ -301,7 +301,7 @@ You should be as efficient with time and space as possible.
 
 #### 21
 
-This problem was asked by **Amazon** (Easy).
+This problem was asked by **Amazon** (#505: Easy).
 
 Given an array and a number k that's smaller than the length of the array, rotate the array to the right k elements in-place.
 
@@ -311,7 +311,7 @@ Given an array and a number k that's smaller than the length of the array, rotat
 
 #### 22
 
-This problem was asked by **Fitbit** (Medium).
+This problem was asked by **Fitbit** (#506: Medium).
 
 Given a linked list, rearrange the node values such that they appear in alternating low -> high -> low -> high ... form. For example, given 1 -> 2 -> 3 -> 4 -> 5, you should return 1 -> 3 -> 2 -> 5 -> 4.
 
@@ -321,7 +321,7 @@ Given a linked list, rearrange the node values such that they appear in alternat
 
 #### 23
 
-This problem was asked by **Uber** (Easy).
+This problem was asked by **Uber** (#507: Easy).
 
 On election day, a voting machine writes data in the form (voter_id, candidate_id) to a text file. Write a program that reads this file as a stream and returns the top 3 candidates at any given time. If you find a voter voting more than once, report this as fraud.
 
