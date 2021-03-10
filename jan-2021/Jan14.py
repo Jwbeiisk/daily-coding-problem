@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-16th Jan 2021. BONUS!
+14th Jan 2021. BONUS!
 
 Daily Coding Problem skipped an email through some glitch. I've made a sudoku solver instead here.
 
