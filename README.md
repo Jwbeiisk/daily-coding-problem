@@ -427,3 +427,18 @@ For example, given the linked list 5 -> 1 -> 8 -> 0 -> 3 and k = 3, the solution
 [Solve It!](jan-2021/Jan31.py)
 
 ---
+
+### Feb 2021
+
+#### 1
+
+This problem was asked by **Zillow** (#516: Medium).
+
+Let's define a "sevenish" number to be one which is either a power of 7, or the sum of unique powers of 7. The first few sevenish numbers are 1, 7, 8, 49, and so on. 
+
+Create an algorithm to find the nth sevenish number.
+
+[Solve It!](feb-2021/Feb1.py)
+
+---
+
