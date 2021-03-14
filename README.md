@@ -501,8 +501,7 @@ Given this representation, determine the depth of the tree.
 
 This problem was asked by **PayPal** (#521: Medium).
 
-Given a string and a number of lines k, print the string in zigzag form. In zigzag, characters are printed out 
-diagonally from top left to bottom right until reaching the kth line, then back up to top right, and so on.
+Given a string and a number of lines k, print the string in zigzag form. In zigzag, characters are printed out diagonally from top left to bottom right until reaching the kth line, then back up to top right, and so on.
 
 For example, given the sentence "thisisazigzag" and k = 4, you should print:
 
@@ -512,5 +511,15 @@ For example, given the sentence "thisisazigzag" and k = 4, you should print:
                s     g
                
 [Solve It!](feb-2021/Feb6.py)
+
+---
+
+#### 7
+
+This problem was asked by **Microsoft** (#522: Medium).
+
+Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string. For example, given the string "abracadabra" and the pattern "abr", you should return [0, 7].
+
+[Solve It!](feb-2021/Feb7.py)
 
 ---
