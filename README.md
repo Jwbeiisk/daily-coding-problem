@@ -487,6 +487,7 @@ You are given a binary tree in a peculiar string representation. Each node is wr
 If either l or r is null, it will be represented as a zero. Otherwise, it will be represented by a new (lr) pair.
 
 Here are a few examples:
+
         A root node with no children: (00)
         A root node with two children: ((00)(00))
         An unbalanced tree with three consecutive left children: ((((00)0)0)0)
@@ -529,6 +530,7 @@ Given a string and a pattern, find the starting indices of all occurrences of th
 This problem was asked by **Jane Street** (#523: Easy).
 
 Given integers M and N, write a program that counts how many positive integer pairs (a, b) satisfy the following conditions:
+
         a + b = M
         a XOR b = N
     
@@ -555,13 +557,16 @@ Given the array [-5, -1, -8, -9], the maximum sum would be 0, since we would not
 This problem was asked by **Amazon** (#525: Easy).
 
 Given a N by M matrix of numbers, print out the matrix in a clockwise spiral.
+
 For example, given the following matrix:
+
         [[1,  2,  3,  4,  5],
          [6,  7,  8,  9,  10],
          [11, 12, 13, 14, 15],
          [16, 17, 18, 19, 20]]
 
 You should print out the following:
+
         1
         2
         3
