@@ -591,3 +591,57 @@ You should print out the following:
 [Solve It!](feb-2021/Feb10.py)
 
 ---
+
+#### 11
+
+This problem was asked by **Yahoo** (#526: Easy).
+
+You are given a string of length N and a parameter k. The string can be manipulated by taking one of the first k letters and moving it to the end.
+
+Write a program to determine the lexicographically smallest string that can be created after an unlimited number of moves.
+
+For example, suppose we are given the string daily and k = 1. The best we can create in this case is ailyd.
+
+[Solve It!](feb-2021/Feb11.py)
+
+---
+
+#### 12
+
+This problem was asked by **Amazon** (#527: Medium).
+
+Huffman coding is a method of encoding characters based on their frequency. Each letter is assigned a variable-length binary string, such as 0101 or 111110, where shorter lengths correspond to more common letters. To accomplish this, a binary tree is built such that the path from the root to any leaf uniquely maps to a character. When traversing the path, descending to a left child corresponds to a 0 in the prefix, while descending right corresponds to 1.
+
+Here is an example tree (note that only the leaf nodes have letters):
+
+            *
+          /   \
+        *       *
+       / \     / \
+      *   a   t   *
+     /             \
+    c               s
+
+With this encoding, cats would be represented as 0000110111.
+
+Given a dictionary of character frequencies, build a Huffman tree, and use it to determine a mapping between characters and their encoded binary strings.
+
+[Solve It!](feb-2021/Feb12.py)
+
+---
+
+#### 13
+
+This problem was asked by **Microsoft** (#528: Easy).
+
+Write a program to determine how many distinct ways there are to create a max heap from a list of N given integers.
+
+For example, if N = 3, and our integers are [1, 2, 3], there are two ways, shown below.
+
+      3      3
+     / \    / \
+    1   2  2   1
+
+[Solve It!](feb-2021/Feb13.py)
+
+---
