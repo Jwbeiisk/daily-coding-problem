@@ -645,3 +645,19 @@ For example, if N = 3, and our integers are [1, 2, 3], there are two ways, shown
 [Solve It!](feb-2021/Feb13.py)
 
 ---
+
+---
+
+#### 14
+
+This problem was asked by **Google** (#529: Hard).
+
+Given a string, split it into as few strings as possible such that each string is a palindrome.
+
+For example, given the input string racecarannakayak, return ["racecar", "anna", "kayak"].
+
+Given the input string abc, return ["a", "b", "c"].
+
+[Solve It!](feb-2021/Feb14.py)
+
+---
