@@ -675,3 +675,17 @@ Given two strings, compute the edit distance between them.
 [Solve It!](feb-2021/Feb15.py)
 
 ---
+
+---
+
+#### 16
+
+This problem was asked **Microsoft** (#531: Easy).
+
+Using a read7() method that returns 7 characters from a file, implement readN(n) which reads n characters.
+
+For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
+
+[Solve It!](feb-2021/Feb16.py)
+
+---
