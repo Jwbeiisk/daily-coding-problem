@@ -696,12 +696,9 @@ For example, given a file with the content “Hello world”, three read7() retu
 
 This problem was asked by **Google** (#532: Medium).
 
-On our special chessboard, two bishops attack each other if they share the same diagonal. This includes bishops that 
-have another bishop located between them, i.e. bishops can attack through pieces.
+On our special chessboard, two bishops attack each other if they share the same diagonal. This includes bishops that have another bishop located between them, i.e. bishops can attack through pieces.
 
-You are given N bishops, represented as (row, column) tuples on a M by M chessboard. Write a function to count the 
-number of pairs of bishops that attack each other. The ordering of the pair doesn't matter: (1, 2) is considered the 
-same as (2, 1).
+You are given N bishops, represented as (row, column) tuples on a M by M chessboard. Write a function to count the number of pairs of bishops that attack each other. The ordering of the pair doesn't matter: (1, 2) is considered the same as (2, 1).
 
 For example, given M = 5 and the list of bishops:
 
@@ -721,5 +718,17 @@ The board would look like this:
 You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
 
 [Solve It!](feb-2021/Feb17.py)
+
+---
+
+---
+
+#### 18
+
+This problem was asked by **Facebook** (#533: Easy).
+
+Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many words as possible that can be formed by a sequence of adjacent letters in the grid, using each cell at most once. Given a game board and a dictionary of valid words, implement a Boggle solver.
+
+[Solve It!](feb-2021/Feb18.py)
 
 ---
