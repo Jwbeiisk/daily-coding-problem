@@ -732,3 +732,17 @@ Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many 
 [Solve It!](feb-2021/Feb18.py)
 
 ---
+
+---
+
+#### 19
+
+This problem was asked by **Amazon** (#534: Easy).
+
+Given a string, determine whether any permutation of it is a palindrome.
+
+For example, carrace should return true, since it can be rearranged to form racecar, which is a palindrome. daily should return false, since there's no rearrangement that can form a palindrome.
+
+[Solve It!](feb-2021/Feb19.py)
+
+---
