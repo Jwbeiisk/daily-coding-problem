@@ -645,3 +645,159 @@ For example, if N = 3, and our integers are [1, 2, 3], there are two ways, shown
 [Solve It!](feb-2021/Feb13.py)
 
 ---
+
+---
+
+#### 14
+
+This problem was asked by **Google** (#529: Hard).
+
+Given a string, split it into as few strings as possible such that each string is a palindrome.
+
+For example, given the input string racecarannakayak, return ["racecar", "anna", "kayak"].
+
+Given the input string abc, return ["a", "b", "c"].
+
+[Solve It!](feb-2021/Feb14.py)
+
+---
+
+---
+
+#### 15
+
+This problem was asked by **Google** (#530: Easy).
+
+The edit distance between two strings refers to the minimum number of character insertions, deletions, and substitutions required to change one string to the other. For example, the edit distance between “kitten” and “sitting” is three: substitute the “k” for “s”, substitute the “e” for “i”, and append a “g”.
+
+Given two strings, compute the edit distance between them.
+
+[Solve It!](feb-2021/Feb15.py)
+
+---
+
+---
+
+#### 16
+
+This problem was asked **Microsoft** (#531: Easy).
+
+Using a read7() method that returns 7 characters from a file, implement readN(n) which reads n characters.
+
+For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
+
+[Solve It!](feb-2021/Feb16.py)
+
+---
+
+---
+
+#### 17
+
+This problem was asked by **Google** (#532: Medium).
+
+On our special chessboard, two bishops attack each other if they share the same diagonal. This includes bishops that have another bishop located between them, i.e. bishops can attack through pieces.
+
+You are given N bishops, represented as (row, column) tuples on a M by M chessboard. Write a function to count the number of pairs of bishops that attack each other. The ordering of the pair doesn't matter: (1, 2) is considered the same as (2, 1).
+
+For example, given M = 5 and the list of bishops:
+
+    (0, 0)
+    (1, 2)
+    (2, 2)
+    (4, 0)
+
+The board would look like this:
+
+    [b 0 0 0 0]
+    [0 0 b 0 0]
+    [0 0 b 0 0]
+    [0 0 0 0 0]
+    [b 0 0 0 0]
+
+You should return 2, since bishops 1 and 3 attack each other, as well as bishops 3 and 4.
+
+[Solve It!](feb-2021/Feb17.py)
+
+---
+
+---
+
+#### 18
+
+This problem was asked by **Facebook** (#533: Easy).
+
+Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many words as possible that can be formed by a sequence of adjacent letters in the grid, using each cell at most once. Given a game board and a dictionary of valid words, implement a Boggle solver.
+
+[Solve It!](feb-2021/Feb18.py)
+
+---
+
+---
+
+#### 19
+
+This problem was asked by **Amazon** (#534: Easy).
+
+Given a string, determine whether any permutation of it is a palindrome.
+
+For example, carrace should return true, since it can be rearranged to form racecar, which is a palindrome. daily should return false, since there's no rearrangement that can form a palindrome.
+
+[Solve It!](feb-2021/Feb19.py)
+
+---
+
+---
+
+#### 20
+
+This problem was asked by **Goldman Sachs** (#535: Medium).
+
+You are given N identical eggs and access to a building with k floors. Your task is to find the lowest floor that will cause an egg to break, if dropped from that floor. Once an egg breaks, it cannot be dropped again. If an egg breaks when dropped from the xth floor, you can assume it will also break when dropped from any floor greater than x.
+
+Write an algorithm that finds the minimum number of trial drops it will take, in the worst case, to identify this floor.
+
+For example, if N = 1 and k = 5, we will need to try dropping the egg at every floor, beginning with the first, until we reach the fifth floor, so our solution will be 5.
+
+[Solve It!](feb-2021/Feb20.py)
+
+---
+
+---
+
+#### 21
+
+This problem was asked by **Google** (#536: Medium).
+
+Given the sequence of keys visited by a postorder traversal of a binary search tree, reconstruct the tree.
+
+For example, given the sequence 2, 4, 3, 8, 7, 5, you should construct the following tree:
+
+        5
+       / \
+      3   7
+     / \   \
+    2   4   8
+
+[Solve It!](feb-2021/Feb21.py)
+
+---
+
+---
+
+#### 22
+
+This problem was asked by **Apple** (#537: Easy).
+
+A Collatz sequence in mathematics can be defined as follows. Starting with any positive integer:
+
+    if n is even, the next number in the sequence is n / 2
+    if n is odd, the next number in the sequence is 3n + 1
+
+It is conjectured that every such sequence eventually reaches the number 1. Test this conjecture.
+
+Bonus: What input n <= 1000000 gives the longest sequence?
+
+[Solve It!](feb-2021/Feb22.py)
+
+---
