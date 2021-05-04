@@ -817,3 +817,15 @@ Create an algorithm that finds a De Bruijn sequence.
 [Solve It!](feb-2021/Feb23.py)
 
 ---
+
+---
+
+#### 24
+
+This problem was asked by **Pandora** (#539: Easy).
+
+Given an undirected graph, determine if it contains a cycle.
+
+[Solve It!](feb-2021/Feb24.py)
+
+---
