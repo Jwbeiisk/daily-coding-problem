@@ -801,3 +801,97 @@ Bonus: What input n <= 1000000 gives the longest sequence?
 [Solve It!](feb-2021/Feb22.py)
 
 ---
+
+---
+
+#### 23
+
+This problem was asked by **LinkedIn** (#538: Hard).
+
+Given a set of characters C and an integer k, a De Bruijn sequence is a cyclic sequence in which every possible k-length string of characters in C occurs exactly once.
+
+For example, suppose C = {0, 1} and k = 3. Then our sequence should contain the substrings {'000', '001', '010', '011', '100', '101', '110', '111'}, and one possible solution would be 00010111.
+
+Create an algorithm that finds a De Bruijn sequence.
+
+[Solve It!](feb-2021/Feb23.py)
+
+---
+
+---
+
+#### 24
+
+This problem was asked by **Pandora** (#539: Easy).
+
+Given an undirected graph, determine if it contains a cycle.
+
+[Solve It!](feb-2021/Feb24.py)
+
+---
+
+---
+
+#### 25
+
+This problem was asked by **Morgan Stanley** (#540: Easy).
+
+In Ancient Greece, it was common to write text with the first line going left to right, the second line going right to left, and continuing to go back and forth. This style was called "boustrophedon".
+
+Given a binary tree, write an algorithm to print the nodes in boustrophedon order.
+
+For example, given the following tree:
+
+           1
+        /     \
+      2         3
+     / \       / \
+    4   5     6   7
+
+You should return [1, 3, 2, 4, 5, 6, 7].
+
+[Solve It!](feb-2021/Feb25.py)
+
+---
+
+---
+
+#### 26
+
+This problem was asked by **Amazon** (#541: Easy).
+
+Run-length encoding is a fast and simple method of encoding strings. The basic idea is to represent repeated successive characters as a single count and character. For example, the string "AAAABBBCCDAA" would be encoded as "4A3B2C1D2A".
+
+Implement run-length encoding and decoding. You can assume the string to be encoded have no digits and consists solely of alphabetic characters. You can assume the string to be decoded is valid.
+
+[Solve It!](feb-2021/Feb26.py)
+
+---
+
+---
+
+#### 27
+
+This problem was asked by **Dropbox** (#542: Medium).
+
+Given an undirected graph G, check whether it is bipartite. Recall that a graph is bipartite if its vertices can be divided into two independent sets, U and V, such that no edge connects vertices of the same set.
+
+[Solve It!](feb-2021/Feb27.py)
+
+---
+
+---
+
+#### 28
+
+This problem was asked by **Google** (#543: Medium).
+
+Given a singly linked list and an integer k, remove the kth last element from the list. k is guaranteed to be smaller than the length of the list.
+
+The list is very long, so making more than one pass is prohibitively expensive.
+
+Do this in constant space and in one pass.
+
+[Solve It!](feb-2021/Feb28.py)
+
+---
