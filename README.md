@@ -867,3 +867,15 @@ Implement run-length encoding and decoding. You can assume the string to be enco
 [Solve It!](feb-2021/Feb26.py)
 
 ---
+
+---
+
+#### 27
+
+This problem was asked by **Dropbox** (#542: Medium).
+
+Given an undirected graph G, check whether it is bipartite. Recall that a graph is bipartite if its vertices can be divided into two independent sets, U and V, such that no edge connects vertices of the same set.
+
+[Solve It!](feb-2021/Feb27.py)
+
+---
