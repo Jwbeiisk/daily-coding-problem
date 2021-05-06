@@ -879,3 +879,19 @@ Given an undirected graph G, check whether it is bipartite. Recall that a graph 
 [Solve It!](feb-2021/Feb27.py)
 
 ---
+
+---
+
+#### 28
+
+This problem was asked by **Google** (#543: Medium).
+
+Given a singly linked list and an integer k, remove the kth last element from the list. k is guaranteed to be smaller than the length of the list.
+
+The list is very long, so making more than one pass is prohibitively expensive.
+
+Do this in constant space and in one pass.
+
+[Solve It!](feb-2021/Feb28.py)
+
+---
