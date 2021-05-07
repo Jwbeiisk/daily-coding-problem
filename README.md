@@ -895,3 +895,49 @@ Do this in constant space and in one pass.
 [Solve It!](feb-2021/Feb28.py)
 
 ---
+
+### Mar 2021
+
+#### 1
+
+This problem was asked by **Google** (#544: Hard).
+
+Given a list of integers S and a target number k, write a function that returns a subset of S that adds up to k. If such a subset cannot be made, then return null.
+
+Integers can appear more than once in the list. You may assume all numbers in the list are positive.
+
+For example, given S = [12, 1, 61, 5, 9, 2] and k = 24, return [12, 9, 2, 1] since it sums up to 24.
+
+[Solve It!](mar-2021/Mar1.py)
+
+---
+
+#### 2
+
+This problem was asked by **Twitter** (#545: Hard).
+
+Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree. Assume that each node in the tree also has a pointer to its parent.
+
+According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes v and w as the lowest node in T that has both v and w as descendants (where we allow a node to be a descendant of itself).”
+
+[Solve It!](mar-2021/Mar2.py)
+
+---
+
+#### 3
+
+This problem was asked by **Google** (#546: Medium).
+
+Given an array of integers, return a new array where each element in the new array is the number of smaller elements to the right of that element in the original input array.
+
+For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
+
+    There is 1 smaller element to the right of 3
+    There is 1 smaller element to the right of 4
+    There are 2 smaller elements to the right of 9
+    There is 1 smaller element to the right of 6
+    There are no smaller elements to the right of 1
+
+[Solve It!](mar-2021/Mar3.py)
+
+---
