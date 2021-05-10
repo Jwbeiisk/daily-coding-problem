@@ -646,8 +646,6 @@ For example, if N = 3, and our integers are [1, 2, 3], there are two ways, shown
 
 ---
 
----
-
 #### 14
 
 This problem was asked by **Google** (#529: Hard).
@@ -659,8 +657,6 @@ For example, given the input string racecarannakayak, return ["racecar", "anna",
 Given the input string abc, return ["a", "b", "c"].
 
 [Solve It!](feb-2021/Feb14.py)
-
----
 
 ---
 
@@ -676,8 +672,6 @@ Given two strings, compute the edit distance between them.
 
 ---
 
----
-
 #### 16
 
 This problem was asked **Microsoft** (#531: Easy).
@@ -687,8 +681,6 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
 
 [Solve It!](feb-2021/Feb16.py)
-
----
 
 ---
 
@@ -721,8 +713,6 @@ You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 
 ---
 
----
-
 #### 18
 
 This problem was asked by **Facebook** (#533: Easy).
@@ -730,8 +720,6 @@ This problem was asked by **Facebook** (#533: Easy).
 Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many words as possible that can be formed by a sequence of adjacent letters in the grid, using each cell at most once. Given a game board and a dictionary of valid words, implement a Boggle solver.
 
 [Solve It!](feb-2021/Feb18.py)
-
----
 
 ---
 
@@ -747,8 +735,6 @@ For example, carrace should return true, since it can be rearranged to form race
 
 ---
 
----
-
 #### 20
 
 This problem was asked by **Goldman Sachs** (#535: Medium).
@@ -760,8 +746,6 @@ Write an algorithm that finds the minimum number of trial drops it will take, in
 For example, if N = 1 and k = 5, we will need to try dropping the egg at every floor, beginning with the first, until we reach the fifth floor, so our solution will be 5.
 
 [Solve It!](feb-2021/Feb20.py)
-
----
 
 ---
 
@@ -783,8 +767,6 @@ For example, given the sequence 2, 4, 3, 8, 7, 5, you should construct the follo
 
 ---
 
----
-
 #### 22
 
 This problem was asked by **Apple** (#537: Easy).
@@ -802,8 +784,6 @@ Bonus: What input n <= 1000000 gives the longest sequence?
 
 ---
 
----
-
 #### 23
 
 This problem was asked by **LinkedIn** (#538: Hard).
@@ -818,8 +798,6 @@ Create an algorithm that finds a De Bruijn sequence.
 
 ---
 
----
-
 #### 24
 
 This problem was asked by **Pandora** (#539: Easy).
@@ -827,8 +805,6 @@ This problem was asked by **Pandora** (#539: Easy).
 Given an undirected graph, determine if it contains a cycle.
 
 [Solve It!](feb-2021/Feb24.py)
-
----
 
 ---
 
@@ -854,8 +830,6 @@ You should return [1, 3, 2, 4, 5, 6, 7].
 
 ---
 
----
-
 #### 26
 
 This problem was asked by **Amazon** (#541: Easy).
@@ -868,8 +842,6 @@ Implement run-length encoding and decoding. You can assume the string to be enco
 
 ---
 
----
-
 #### 27
 
 This problem was asked by **Dropbox** (#542: Medium).
@@ -877,8 +849,6 @@ This problem was asked by **Dropbox** (#542: Medium).
 Given an undirected graph G, check whether it is bipartite. Recall that a graph is bipartite if its vertices can be divided into two independent sets, U and V, such that no edge connects vertices of the same set.
 
 [Solve It!](feb-2021/Feb27.py)
-
----
 
 ---
 
@@ -939,5 +909,15 @@ For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
     There are no smaller elements to the right of 1
 
 [Solve It!](mar-2021/Mar3.py)
+
+---
+
+#### 4
+
+This problem was asked by **Salesforce** (#547: Hard).
+
+Given an array of integers, find the maximum XOR of any two elements.
+
+[Solve It!](mar-2021/Mar4.py)
 
 ---
