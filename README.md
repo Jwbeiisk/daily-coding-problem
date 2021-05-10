@@ -921,3 +921,15 @@ Given an array of integers, find the maximum XOR of any two elements.
 [Solve It!](mar-2021/Mar4.py)
 
 ---
+
+#### 5
+
+This problem was asked by **Microsoft** (#548: Easy).
+
+Given a clock time in hh:mm format, determine, to the nearest degree, the angle between the hour and the minute hands.
+
+Bonus: When, during the course of a day, will the angle be zero?
+
+[Solve It!](mar-2021/Mar5.py)
+
+---
