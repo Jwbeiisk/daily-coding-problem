@@ -933,3 +933,18 @@ Bonus: When, during the course of a day, will the angle be zero?
 [Solve It!](mar-2021/Mar5.py)
 
 ---
+
+#### 6
+
+This problem was asked by **Google** (#549: Hard).
+
+Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find 
+and return the non-duplicated integer.
+
+For example, given [6, 1, 3, 3, 3, 6, 6], return 1. Given [13, 19, 13, 13], return 19.
+
+Do this in O(N) time and O(1) space.
+
+[Solve It!](mar-2021/Mar6.py)
+
+---
