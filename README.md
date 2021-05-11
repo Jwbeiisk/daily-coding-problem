@@ -938,13 +938,24 @@ Bonus: When, during the course of a day, will the angle be zero?
 
 This problem was asked by **Google** (#549: Hard).
 
-Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find 
-and return the non-duplicated integer.
+Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer.
 
 For example, given [6, 1, 3, 3, 3, 6, 6], return 1. Given [13, 19, 13, 13], return 19.
 
 Do this in O(N) time and O(1) space.
 
 [Solve It!](mar-2021/Mar6.py)
+
+---
+
+#### 7
+
+This problem was asked by **Jane Street** (#550: Hard).
+
+Suppose you are given a table of currency exchange rates, represented as a 2D array. Determine whether there is a possible arbitrage: that is, whether there is some sequence of trades you can make, starting with some amount A of any currency, so that you can end up with some amount greater than A of that currency.
+
+There are no transaction costs and you can trade fractional quantities.
+
+[Solve It!](mar-2021/Mar7.py)
 
 ---
