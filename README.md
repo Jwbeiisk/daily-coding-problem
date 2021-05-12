@@ -646,8 +646,6 @@ For example, if N = 3, and our integers are [1, 2, 3], there are two ways, shown
 
 ---
 
----
-
 #### 14
 
 This problem was asked by **Google** (#529: Hard).
@@ -659,8 +657,6 @@ For example, given the input string racecarannakayak, return ["racecar", "anna",
 Given the input string abc, return ["a", "b", "c"].
 
 [Solve It!](feb-2021/Feb14.py)
-
----
 
 ---
 
@@ -676,8 +672,6 @@ Given two strings, compute the edit distance between them.
 
 ---
 
----
-
 #### 16
 
 This problem was asked **Microsoft** (#531: Easy).
@@ -687,8 +681,6 @@ Using a read7() method that returns 7 characters from a file, implement readN(n)
 For example, given a file with the content “Hello world”, three read7() returns “Hello w”, “orld” and then “”.
 
 [Solve It!](feb-2021/Feb16.py)
-
----
 
 ---
 
@@ -721,8 +713,6 @@ You should return 2, since bishops 1 and 3 attack each other, as well as bishops
 
 ---
 
----
-
 #### 18
 
 This problem was asked by **Facebook** (#533: Easy).
@@ -730,8 +720,6 @@ This problem was asked by **Facebook** (#533: Easy).
 Boggle is a game played on a 4 x 4 grid of letters. The goal is to find as many words as possible that can be formed by a sequence of adjacent letters in the grid, using each cell at most once. Given a game board and a dictionary of valid words, implement a Boggle solver.
 
 [Solve It!](feb-2021/Feb18.py)
-
----
 
 ---
 
@@ -747,8 +735,6 @@ For example, carrace should return true, since it can be rearranged to form race
 
 ---
 
----
-
 #### 20
 
 This problem was asked by **Goldman Sachs** (#535: Medium).
@@ -760,8 +746,6 @@ Write an algorithm that finds the minimum number of trial drops it will take, in
 For example, if N = 1 and k = 5, we will need to try dropping the egg at every floor, beginning with the first, until we reach the fifth floor, so our solution will be 5.
 
 [Solve It!](feb-2021/Feb20.py)
-
----
 
 ---
 
@@ -783,8 +767,6 @@ For example, given the sequence 2, 4, 3, 8, 7, 5, you should construct the follo
 
 ---
 
----
-
 #### 22
 
 This problem was asked by **Apple** (#537: Easy).
@@ -802,8 +784,6 @@ Bonus: What input n <= 1000000 gives the longest sequence?
 
 ---
 
----
-
 #### 23
 
 This problem was asked by **LinkedIn** (#538: Hard).
@@ -818,8 +798,6 @@ Create an algorithm that finds a De Bruijn sequence.
 
 ---
 
----
-
 #### 24
 
 This problem was asked by **Pandora** (#539: Easy).
@@ -827,8 +805,6 @@ This problem was asked by **Pandora** (#539: Easy).
 Given an undirected graph, determine if it contains a cycle.
 
 [Solve It!](feb-2021/Feb24.py)
-
----
 
 ---
 
@@ -854,8 +830,6 @@ You should return [1, 3, 2, 4, 5, 6, 7].
 
 ---
 
----
-
 #### 26
 
 This problem was asked by **Amazon** (#541: Easy).
@@ -868,8 +842,6 @@ Implement run-length encoding and decoding. You can assume the string to be enco
 
 ---
 
----
-
 #### 27
 
 This problem was asked by **Dropbox** (#542: Medium).
@@ -877,8 +849,6 @@ This problem was asked by **Dropbox** (#542: Medium).
 Given an undirected graph G, check whether it is bipartite. Recall that a graph is bipartite if its vertices can be divided into two independent sets, U and V, such that no edge connects vertices of the same set.
 
 [Solve It!](feb-2021/Feb27.py)
-
----
 
 ---
 
@@ -939,5 +909,154 @@ For example, given the array [3, 4, 9, 6, 1], return [1, 1, 2, 1, 0], since:
     There are no smaller elements to the right of 1
 
 [Solve It!](mar-2021/Mar3.py)
+
+---
+
+#### 4
+
+This problem was asked by **Salesforce** (#547: Hard).
+
+Given an array of integers, find the maximum XOR of any two elements.
+
+[Solve It!](mar-2021/Mar4.py)
+
+---
+
+#### 5
+
+This problem was asked by **Microsoft** (#548: Easy).
+
+Given a clock time in hh:mm format, determine, to the nearest degree, the angle between the hour and the minute hands.
+
+Bonus: When, during the course of a day, will the angle be zero?
+
+[Solve It!](mar-2021/Mar5.py)
+
+---
+
+#### 6
+
+This problem was asked by **Google** (#549: Hard).
+
+Given an array of integers where every integer occurs three times except for one integer, which only occurs once, find and return the non-duplicated integer.
+
+For example, given [6, 1, 3, 3, 3, 6, 6], return 1. Given [13, 19, 13, 13], return 19.
+
+Do this in O(N) time and O(1) space.
+
+[Solve It!](mar-2021/Mar6.py)
+
+---
+
+#### 7
+
+This problem was asked by **Jane Street** (#550: Hard).
+
+Suppose you are given a table of currency exchange rates, represented as a 2D array. Determine whether there is a possible arbitrage: that is, whether there is some sequence of trades you can make, starting with some amount A of any currency, so that you can end up with some amount greater than A of that currency.
+
+There are no transaction costs and you can trade fractional quantities.
+
+[Solve It!](mar-2021/Mar7.py)
+
+---
+
+#### 8
+
+This problem was asked by **Square** (#551: Medium).
+
+Assume you have access to a function toss_biased() which returns 0 or 1 with a probability that's not 50-50 (but also not 0-100 or 100-0). You do not know the bias of the coin.
+
+Write a function to simulate an unbiased coin toss.
+
+[Solve It!](mar-2021/Mar8.py)
+
+---
+
+#### 9
+
+This problem was asked by **Wayfair** (#552: Easy).
+
+You are given a 2 x N board, and instructed to completely cover the board with the following shapes:
+
+    Dominoes, or 2 x 1 rectangles.
+    Trominoes, or L-shapes.
+
+For example, if N = 4, here is one possible configuration, where A is a domino, and B and C are trominoes.
+
+    A B B C
+    A B C C
+
+Given an integer N, determine in how many ways this task is possible.
+
+[Solve It!](mar-2021/Mar9.py)
+
+---
+
+#### 10
+
+This problem was asked by **Google** (#553: Medium).
+
+You are given an N by M 2D matrix of lowercase letters. Determine the minimum number of columns that can be removed to ensure that each row is ordered from top to bottom lexicographically. That is, the letter at each column is lexicographically later as you go down each row. It does not matter whether each row itself is ordered lexicographically.
+
+For example, given the following table:
+
+    cba
+    daf
+    ghi
+
+This is not ordered because of the a in the center. We can remove the second column to make it ordered:
+
+    ca
+    df
+    gi
+
+So your function should return 1, since we only needed to remove 1 column.
+
+As another example, given the following table:
+
+    abcdef
+
+Your function should return 0, since the rows are already ordered (there's only one row).
+
+As another example, given the following table:
+
+    zyx
+    wvu
+    tsr
+
+Your function should return 3, since we would need to remove all the columns to order it.
+
+[Solve It!](mar-2021/Mar10.py)
+
+---
+
+#### 11
+
+This problem was asked by **Palantir** (#554: Easy).
+
+The ancient Egyptians used to express fractions as a sum of several terms where each numerator is one. For example, 
+    4 / 13 
+can be represented as 
+    1 / 4 + 1 / 18 + 1 / 468
+
+Create an algorithm to turn an ordinary fraction a / b, where a < b, into an Egyptian fraction.
+
+[Solve It!](mar-2021/Mar11.py)
+
+---
+
+#### 12
+
+This problem was asked by **Amazon** (#555: Medium).
+
+An sorted array of integers was rotated an unknown number of times.
+
+Given such an array, find the index of the element in the array in faster than linear time. If the element doesn't exist in the array, return null.
+
+For example, given the array [13, 18, 25, 2, 8, 10] and the element 8, return 4 (the index of 8 in the array).
+
+You can assume all the integers in the array are unique.
+
+[Solve It!](mar-2021/Mar12.py)
 
 ---
