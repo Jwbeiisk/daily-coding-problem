@@ -1097,3 +1097,15 @@ And there are 4 12's in the table.
 [Solve It!](mar-2021/Mar14.py)
 
 ---
+
+#### 15
+
+This problem was asked by **Google** (#558: Medium).
+
+The area of a circle is defined as πr^2. Estimate π to 3 decimal places using a Monte Carlo method.
+
+Hint: The basic equation of a circle is x^2 + y^2 = r^2.
+
+[Solve It!](mar-2021/Mar15.py)
+
+---
