@@ -1109,3 +1109,37 @@ Hint: The basic equation of a circle is x^2 + y^2 = r^2.
 [Solve It!](mar-2021/Mar15.py)
 
 ---
+
+#### 16
+
+This problem was asked by **Google** (#559: Medium).
+
+Given k sorted singly linked lists, write a function to merge all the lists into one sorted singly linked list.
+
+[Solve It!](mar-2021/Mar16.py)
+
+---
+
+#### 17
+
+This problem was recently asked by **Google** (#560: Easy).
+
+Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
+
+For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
+
+Bonus: Can you do this in one pass?
+
+[Solve It!](mar-2021/Mar17.py)
+
+---
+
+#### 18
+
+This problem was asked by **Etsy** (#561: Hard).
+
+Given a sorted array, convert it into a height-balanced binary search tree.
+
+[Solve It!](mar-2021/Mar18.py)
+
+---
