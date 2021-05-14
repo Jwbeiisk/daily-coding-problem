@@ -1133,3 +1133,13 @@ Bonus: Can you do this in one pass?
 [Solve It!](mar-2021/Mar17.py)
 
 ---
+
+#### 18
+
+This problem was asked by **Etsy** (#561: Hard).
+
+Given a sorted array, convert it into a height-balanced binary search tree.
+
+[Solve It!](mar-2021/Mar18.py)
+
+---
